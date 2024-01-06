@@ -68,8 +68,8 @@ public class WeatherData {
 	
 	@Override
 	public String toString() {
-		return "city: " + city + ", state: " + state + ", avgTemp: " + avgTemp + ", maxTemp: " + maxTemp
-				+ ", minTemp: " + minTemp + ", windSpeed: " + windSpeed + "\n";
+		return "City: " + city + ", State: " + state + ", AvgTemp: " + avgTemp + ", MaxTemp: " + maxTemp
+				+ ", MinTemp: " + minTemp + ", WindSpeed: " + windSpeed + "\n";
 	}
 	
 	@Override
